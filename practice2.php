@@ -22,7 +22,6 @@ foreach($fruits as $fruit){
 
 //課題4
 for($i = 1; $i <= 100; $i++){
-  // 5で割り切れたら{}内を実行する
   if($i % 5 == 0){
       echo $i;
   }
